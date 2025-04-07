@@ -4,7 +4,7 @@ from google import genai  # Changed import
 
 load_dotenv()
 # GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-GEMINI_API_KEY = "AIzaSyDJ649ckDH_kM_9j2EnXPgpezWsdotDJJ8" # <-- insert your own Genesis AI API key here
+GEMINI_API_KEY = "paste_your_API_Key_here" # <-- insert your own Genesis AI API key here
 print(f"DEBUG: Gemini API Key is: '{GEMINI_API_KEY}'")
 
 def analyze_with_gemini(water_quality_data):
