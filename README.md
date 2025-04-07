@@ -6,7 +6,7 @@
 - SDG 14: Life Below Water
 
 
-BEFORE YOU RUN THE CODE FOR waterMonitoring:
+BEFORE YOU RUN water_monitoring.dart:
 
   1. Get your own Gemini api key from the link below:
   
@@ -19,7 +19,7 @@ BEFORE YOU RUN THE CODE FOR waterMonitoring:
       --> line 70: final apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key= PASTE YOUR API KEY HERE";
 
 
-BEFORE YOU RUN THE CODE FOR waterMonitoring(flutter):
+BEFORE YOU RUN main.dart (flutter version):
 
   1. Get your own Gemini api key from the link below:
   
