@@ -16,4 +16,4 @@ BEFORE YOU RUN THE CODE:
   
       --> line 7: const geminiApiKey = 'PASTE YOUR API KEY';
      
-      --> line 71: final apiUrl = _"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key_=PASTE YOUR API KEY HERE";
+      --> line 71: final apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key= PASTE YOUR API KEY HERE";
