@@ -14,6 +14,6 @@ BEFORE YOU RUN THE CODE:
   
   2. Copy and paste the api key into the file:
   
-      --> line 7: const geminiApiKey = 'PASTE YOUR API KEY';
+      --> line 7: const geminiApiKey = 'PASTE YOUR API KEY HERE';
      
       --> line 71: final apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key= PASTE YOUR API KEY HERE";
